@@ -1,0 +1,7 @@
+{
+  "name": "BiblioApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
